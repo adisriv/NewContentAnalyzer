@@ -7,7 +7,7 @@
 - Pulls news content using this file, specify news topic and sources, saves it to a json file structure
 - Utilizes Event Registry API to pull news from selected sources
 
-##### Master_File:
+##### Master_File
 - Performs pre-processing, vectorization, and LDA topic modeling for given topic and dataset
 - Displays whether or not the new article contains new content at a given depth liven, given the user-specified hyperparameter
 - Also provides visualizations of LDA topics, and lists the main topic of each article
