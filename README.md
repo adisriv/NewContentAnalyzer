@@ -13,9 +13,11 @@
 - Also provides visualizations of LDA topics, and lists the main topic of each article
 
 ##### Master_dataset
-- Contains datasets of articles
+- Folder that contains datasets of articles
+- Data files labeled with a given topic (e.g., "trade_war") are json files which contain a collection of articles about that topic, each with one "unread" article
 - Data files labeled "new" contain an unread article with manually-labeld "new content"
 - Data files labeled "old" contain an unread article with manually-labeld "old content"
+- In all datasets, the publication date for the unread article was set to be the most recent date of all articles in the given dataset, since the Master_File interprets the article with the most recent publication date as the "unread" article
 
 ### Research Question
 - Given a set of articles one has read about a specific subject (i.e. a reading history), can we determine whether a new “unread” article about that subject contains new content or only content that has already been read in prior articles?
