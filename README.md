@@ -59,5 +59,3 @@
 - Suggest other articles with new content
 - Create a timeline of new content to track new information over time
 
-
-** This project was done under the supervison and direction of Professor Soroush Vosoughi in COSC 89.21: Data Mining & Knowledge Discovery.
