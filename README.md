@@ -1,6 +1,6 @@
 # NewContentAnalyzer (NCA)
 
-## Yifei Yan, Steven Karson, Aditya Srivastava
+## Aditya Srivastava, Yifei Yan, Steven Karson
 
 ### Files and Folders
 ##### Master_API
